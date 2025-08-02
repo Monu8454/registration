@@ -1,2 +1,2 @@
-# registration
-my  registration form
+# Registration
+my  Registration form
